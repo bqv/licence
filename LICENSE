@@ -1,0 +1,243 @@
+THE INDIVIDUAL USE LICENCE
+
+Version 1.0.0
+
+Identifier: IUL-1.0.0
+
+<<LICENCE URL>>
+
+## Preamble
+
+This licence is free for people. It is free for small outfits. It is not free
+for large organisations, because large organisations can afford it and have
+spent thirty years pretending otherwise.
+
+It is not open source, and you must not call it open source. Open source asks
+nothing of a company with a billion dollars and nothing of a person with a
+laptop. These terms ask a great deal of the first and nothing at all of the
+second.
+
+It also says something older licences do not: what happens when software is
+written by a machine, and what happens when it is fed to one.
+
+Take it. Use it. Pay for it if you are large enough to be worth charging.
+
+## Purpose
+
+These terms let any individual person use, change and share this software for
+free, and let small organisations do the same. They guarantee that fair,
+reasonable and non-discriminatory terms for a paid licence will be available to
+everyone else.
+
+They exist so that a person can write software without becoming a company, a
+support desk or a supplicant, and so that the organisations best able to pay for
+software are the ones who do.
+
+## Acceptance
+
+In order to get any licence under these terms, you must agree to them as both
+strict obligations and conditions of all your licences.
+
+## Individual Use
+
+If you are a natural person, you may use the software for any purpose, including
+commercial purposes.
+
+Use is Individual Use when the benefit of it goes to you as a natural person and
+not to an organisation. Working alone, for yourself, on your own account, is
+Individual Use whether or not you are paid for it, and whether or not you are
+self-employed.
+
+## Small Organisation
+
+You may use the software for the benefit of an organisation if it meets all of
+these criteria:
+
+1. it had fewer than 8 total individuals working as employees and independent
+   contractors at all times during its last tax year;
+
+2. it earned less than $400,000 total revenue in its last tax year;
+
+3. it received less than $400,000 total debt, equity and other investment in its
+   last five tax years, counting investment in predecessor organisations that
+   reorganised into, merged with, or spun out of it.
+
+All dollar figures are United States dollars as of 2019. Adjust them for
+inflation according to the United States Bureau of Labor Statistics' consumer
+price index for all urban consumers, United States city average, for all items,
+not seasonally adjusted, with 1982-1984=100 reference base.
+
+## Paid Use
+
+You may use the software for the benefit of an organisation that does not
+qualify under Small Organisation:
+
+1. for 128 days after it stops qualifying under Small Organisation; and
+
+2. indefinitely, if the licensor or their legal successor does not offer fair,
+   reasonable and non-discriminatory terms for a paid licence for the software
+   within 32 days of a written request and negotiate in good faith to conclude a
+   deal.
+
+## How to Request a Paid Licence
+
+Write to <<LICENCE CONTACT>>.
+
+If this software includes an address for the licensor or an agent of the
+licensor in a standard place, such as in documentation, software package
+metadata, or an "about" page or screen, try to request fair terms at that
+address. If this software includes both online and offline addresses, try online
+before offline.
+
+If you cannot deliver a request that way, or this software includes no
+addressees, spend one hour online researching an address, recording all your
+searches and enquiries as you go, and try any addresses that you find.
+
+If you cannot find any addresses, or if those addresses also fail, that counts
+as failure to offer fair terms by the licensor under Paid Use.
+
+## Fair, Reasonable and Non-Discriminatory Terms
+
+Fair, reasonable and non-discriminatory terms may license the software
+perpetually or for a term, and may or may not cover new versions of the
+software.
+
+If the licensor advertises licence terms and a pricing structure for generally
+available paid licences, the licensor proposes licence terms and a price as
+advertised, and a customer not affiliated with the licensor has bought a paid
+licence for the software on substantially equivalent terms in the past year, the
+proposal is fair, reasonable and non-discriminatory.
+
+## Machine-Written Software
+
+Substantial portions of this software were produced by machine at the direction
+of the licensor. The licensor says so plainly rather than leaving you to
+discover it.
+
+Where a portion of this software has no human author, the licensor claims no
+copyright in it. To that extent there is nothing here to license and these terms
+do not restrict it, because they cannot. Where these terms do not bind you by
+copyright, they bind you by your agreement to them under Acceptance.
+
+If you pass this software on, or pass on anything built from it, you must not
+misrepresent machine-written portions as the work of a human author, and you
+must not attach a copyright notice to a portion that has no human author.
+
+A machine learning model trained on this software is a derivative of it. See
+Training and Models.
+
+## Training and Models
+
+Training a machine learning model on this software is use of this software.
+
+You may train a model on this software. If you do, the model is a derivative of
+this software and you must license the model under these terms, and make it
+available under them.
+
+Training a model as, or for, an organisation is use for the benefit of that
+organisation, and that organisation must qualify under Individual Use, Small
+Organisation or Paid Use, exactly as for any other use.
+
+Where you have trained a model on this software, every use of that model by an
+organisation that does not qualify under Small Organisation is Paid Use of this
+software, and requires a paid licence under these terms.
+
+## Copyright Licence
+
+The licensor grants you a copyright licence to do everything with the software
+that would otherwise infringe the licensor's copyright in it, for any purpose
+allowed by these terms.
+
+## Notices
+
+You must ensure that anyone who gets a copy of any part of the software from you
+also gets a copy of these terms or the URL for them above, as well as copies of
+any plain-text lines beginning with `Required Notice:` that the licensor
+provided with the software. For example:
+
+> Required Notice: Copyright Yoyodyne Ltd (https://example.com)
+
+## Patent Licence
+
+The licensor grants you a patent licence for the software that covers patent
+claims the licensor can license, or becomes able to license, that you would
+infringe by using the software.
+
+## Fair Use
+
+You may have "fair use" or "fair dealing" rights for the software under the law.
+These terms do not limit them.
+
+## No Other Rights
+
+These terms do not allow you to sublicense or transfer any of your licences to
+anyone else, or prevent the licensor from granting licences to anyone else.
+These terms do not imply any other licences.
+
+## Patent Defence
+
+If you make any written claim that the software infringes or contributes to
+infringement of any patent, your patent licence for the software granted under
+these terms ends immediately. If your organisation makes such a claim, your
+patent licence ends immediately for work on behalf of your organisation.
+
+## Violations
+
+The first time you are notified in writing that you have violated any of these
+terms, or done anything with the software not covered by your licences, your
+licences can nonetheless continue if you come into full compliance with these
+terms, and take practical steps to correct past violations, within 32 days of
+receiving notice. Otherwise, all your licences end immediately.
+
+## No Liability
+
+***As far as the law allows, the software comes as is, without any warranty or
+condition, and the licensor will not be liable to you for any damages arising
+out of these terms or the use or nature of the software, under any kind of legal
+claim.***
+
+## Definitions
+
+The **licensor** is the individual or organisation offering these terms, and the
+**software** is the software the licensor makes available under these terms.
+
+**You** refers to the individual or organisation agreeing to these terms.
+
+**Your organisation** is any legal entity, sole proprietorship, or other kind of
+organisation that you work for, plus all organisations that have control over,
+are under the control of, or are under common control with that organisation.
+**Control** means ownership of substantially all the assets of an entity, or the
+power to direct its management and policies by vote, contract, or otherwise.
+Control can be direct or indirect.
+
+An organisation is an **organisation** whether or not it is incorporated, and
+whether or not it exists to make a profit.
+
+**Your licences** are all the licences granted to you for the software under
+these terms.
+
+**Use** means anything you do with the software requiring one of your licences.
+
+A **machine learning model** is a program or device that uses data to influence
+its future operation, whether or not that data is recognisable in it. Other
+names for one are an artificial intelligence, a large language model, and a
+model. To **train** one is to supply data to it for the purpose of producing or
+improving it.
+
+**Natural person** means a human being, as distinct from an organisation, which
+the law may treat as a person but which is not one.
+
+## Meta Licence
+
+Each contributor grants everyone permission to do everything with The Individual
+Use Licence that would otherwise infringe their copyright in it, under these
+rules:
+
+***As far as the law allows, The Individual Use Licence comes as is, without any
+warranty at all. No one involved in writing, reviewing or improving The
+Individual Use Licence will be liable to you for any damages related to this
+licence grant or use of The Individual Use Licence, for any kind of legal
+claim.***
+
+If you make changes to The Individual Use Licence, remove all mention of
+"Individual" from your changed version.
