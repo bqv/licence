@@ -215,20 +215,3 @@ than rhetorical force.
 **A bespoke licence scans as "Unknown".** No SPDX identifier, so scanners treat it
 as maximum risk. Some organisations will avoid the software rather than engage. This
 is the price of a licence that says something no existing licence says.
-
-## Not decided yet
-
-- The contact address (required — see above).
-- Whether paid terms will be advertised with a public price, which matters because
-  the FRAND section defines fairness partly by reference to advertised terms.
-- What the paid licence actually costs, or whether it is negotiated case by case.
-- Which repositories this will be applied to. Deliberately **not** the `bqv/bqv`
-  profile repository, which carries no code to license.
-
-## Related
-
-- Design brief and the research behind it: `~/ref/POST-OPEN-LICENSE.md`
-- Standing-rule change this relates to: the `AGENTS.md` rule preferring MPL-2.0 for
-  new repositories is **kept**, and will be followed immediately by a line
-  superseding it with this licence for the cases where it applies. Not yet edited,
-  pending this text existing — which it now does.
